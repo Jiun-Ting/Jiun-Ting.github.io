@@ -1,13 +1,6 @@
-# Homework: React 2 α (6 Points Total) 
-
-This assignment is meant to introduce you to more features of React. This is the second α, feature based, assignment in which you will extend the features of a course scheduling application. This application uses a limited quantity of modified data from the UW Madison course information database. With this assignment, you will extend the features of react1 α to create a course recommendation system.
-
-You may either use your code from React1 α, or you may use the starter provided in this template repository. To start from you React1 α submission, remove all non-hidden files from this repository except for README.md, then copy all the non-hidden files from your React1 α repository into the top level directory of this repository. Finally, add and commit your changes.
-
-When your assignment is ready for grading, please submit your repository name and latest commit hash from GitHub Classroom, e.g. react2-alpha-ctnelson1997, 2b0ef83.
 ## Course data
 
-The course data is being fetched from `http://mysqlcs639.cs.wisc.edu:53706/api/react/classes` and is formatted as follows:
+The course data is formatted as follows:
 
 ```
 [
