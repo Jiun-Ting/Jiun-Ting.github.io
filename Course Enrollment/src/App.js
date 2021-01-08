@@ -33,7 +33,7 @@ class App extends React.Component {
   }
 
   async loadInitialState(){
-    let courseURL = "http://mysqlcs639.cs.wisc.edu:53706/api/react/classes";
+    let courseURL = "https://raw.githubusercontent.com/Jiun-Ting/Jiun-Ting.github.io/main/classes.json";
     let courseData = await (await fetch(courseURL)).json()
 
 
@@ -42,7 +42,7 @@ class App extends React.Component {
   }
 
   async loadCompleted(){
-    let courseURL = "http://mysqlcs639.cs.wisc.edu:53706/api/react/students/5022025924/classes/completed";
+    let courseURL = "https://raw.githubusercontent.com/Jiun-Ting/Jiun-Ting.github.io/main/completed.json";
     let courseData = await (await fetch(courseURL)).json()
 
 
