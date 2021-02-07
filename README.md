@@ -13,7 +13,7 @@ Simple webpage layout design.
 ### Fitness Tracker (react native)
 
 ### Evaluation of Big Data Systems   -  [[**Code**]]( https://github.com/Jiun-Ting/CS744-Big-Data-Systems)
--	Distributed Data Parallel Training: Analyzed the performance of different gradient synchronization methods in PyTorch, which includes gather/scatter, all reduce, and the built-in module. 
--	Apache Spark Deployment and Testing: Deployed Hadoop and Spark on Cloudlab and conducted experiments to observe the result of RDD partitioning, RDD persistence and fault tolerance by implementing Pagerank.
--	Tuning Databases Towards Reduced Energy Consumption: Observed the relationship between performance and power consumption with different knobs setting in Cassandra and Postgres. Then applied clustering methods to classify our samplings and analyzed the features of each group. 
+1. Distributed Data Parallel Training: Analyzed the performance of different gradient synchronization methods in PyTorch, which includes gather/scatter, all reduce, and the built-in module. 
+2.	Apache Spark Deployment and Testing: Deployed Hadoop and Spark on Cloudlab and conducted experiments to observe the result of RDD partitioning, RDD persistence and fault tolerance by implementing Pagerank.
+3.	Tuning Databases Towards Reduced Energy Consumption: Observed the relationship between performance and power consumption with different knobs setting in Cassandra and Postgres. Then applied clustering methods to classify our samplings and analyzed the features of each group. 
 * Python, Pytorch, Spark, Postgres, Cassandra
