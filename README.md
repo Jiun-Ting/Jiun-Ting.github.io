@@ -36,6 +36,6 @@ The project applied supervised learning and integer optimization with actual dat
 ### Visualization of Amazon Product Categories [[**Code**]](https://github.com/Jiun-Ting/Tree-Visualization-Amazon-Product-Categories)
 This interactive visualization aims at helping user to evaluate the existing category design. Based on the graph, user would understand if a main category is skewed, where the products concentrate in certain subgroups; Or if some categories have an extreme long path. <br />
 
- [[**Example-Electronics**]](https://jiun-ting.github.io/Tree%20Visualization/Electronics.html) [[**Example-Music**]](https://jiun-ting.github.io/Tree%20Visualization/music.html) The node size stands for their product amount (products of their subcategories are not included), while the colors stand for tree levels.
+ [[**Example-Electronics**]](https://jiun-ting.github.io/Tree%20Visualization/Electronics.html) [[**Example-Music**]](https://jiun-ting.github.io/Tree%20Visualization/music.html) The node size stands for their product amount (subcategory products are not included), while the colors stand for tree levels.
 * Python
 
