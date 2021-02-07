@@ -21,9 +21,7 @@ The library creates mulit-threads to perform the map/reduce tasks with efficient
 * Python, PyTorch, Spark, Postgres, Cassandra
 
 ### B+ Tree Index Manager   [[**Code**]](https://github.com/Jiun-Ting/B-TreeIndexManager)
-	Constructed a B+ tree with C++ from scratch to manage the index of Badger DB. 
-	Implemented index insertion, range scan, next scan in an efficient and correct manner.
-	Managed the buffer pool properly which ensures the pages pinned in the buffer pool if necessary.
+In this project, I constructed a B+ tree to manage the index of Badger DB. The implemented functions includes index insertion, range scan, next scan. Meanwhile, the buffer pool is properly managed, which ensures the pages pinned in the buffer pool if necessary.
 * C++
 
 ### Monetary Policy Analysis  [[**Graphs**]](https://github.com/Jiun-Ting/Master_Thesis)
