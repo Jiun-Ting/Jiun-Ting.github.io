@@ -37,7 +37,7 @@ The library creates mulit-threads to perform the map/reduce tasks with efficient
 The project applied supervised learning and integer optimization with actual data to simulate an optimal NBA team.
 * Julia
 
-### Visualization of Amazon Product Categories  [[**Example-Electronics**]](https://jiun-ting.github.io/Tree%20Visualization/Electronics.html) [[**Example-Music**]](https://jiun-ting.github.io/Tree%20Visualization/Music.html)[[**Code**]](https://github.com/Jiun-Ting/Tree-Visualization-Amazon-Product-Categories)
+### Visualization of Amazon Product Categories  [[**Example-Electronics**]](https://jiun-ting.github.io/Tree%20Visualization/Electronics.html) [[**Example-Music**]](https://jiun-ting.github.io/Tree%20Visualization/music.html)[[**Code**]](https://github.com/Jiun-Ting/Tree-Visualization-Amazon-Product-Categories)
 This interactive visualization aims at helping us to understand if a main category is skewed, where the products concentrate in certain subgroups; Or if some categories have an extreme long path. Once we find out such case with the graph, we could evaluate the existing category design in a clear fashion and gain more insignt to improve. The node size stands for their product amount (products of their subcategories are not included), while the colors stand for tree levels.
 * Python
 
