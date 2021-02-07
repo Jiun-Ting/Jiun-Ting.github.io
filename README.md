@@ -2,17 +2,15 @@
 
 
 ### Course Enrollment System
-a webpage using React.js that allows users to search courses by conditions and to select them into cart. 
-	Considered the hierarchical structure of courses, which enables user to put whole/sub-session of course to cart.
-	Developed a rating function for cart items that enables users to get recommended list based on their preference.
-
-
+The System supports course searching, cart function, course rating and recommendation. User could search courses by single or multiple conditions and select them into cart.
+Considering the hierarchical structure of courses, users are able to put whole/sub-session of course to cart and drop whole/partial of them. Besides, the course that was taken could be rated, which enables the system to generate recommended list based on their preference.
+* React.js
 
 ### Bank Webpage  [[**link**]](https://jiun-ting.github.io/bank%20webpage/index.html) 
 Simple webpage layout design.
-* html, css, javascript, Bootstrap.
+* HTML, CSS, JavaScript, Bootstrap.
 
 
 ### Fitness Tracker (react native)
 
-### T
+### 
