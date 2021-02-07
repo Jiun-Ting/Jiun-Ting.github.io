@@ -37,6 +37,3 @@ The project applied supervised learning and integer optimization with actual dat
 This interactive visualization aims at helping us to understand if a main category is skewed, where the products concentrate in certain subgroups; Or if some categories have an extreme long path. Once we find out such case with the graph, we could evaluate the existing category design in a clear fashion and gain more insignt to improve. The node size stands for their product amount (products of their subcategories are not included), while the colors stand for tree levels.
 * Python
 
-### Bank Webpage  [[**link**]](https://jiun-ting.github.io/bank%20webpage/index.html) 
-Simple webpage layout design.
-* HTML, CSS, JavaScript, Bootstrap.
