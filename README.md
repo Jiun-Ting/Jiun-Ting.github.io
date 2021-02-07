@@ -37,7 +37,7 @@ Considering the hierarchical structure of courses, users are able to put whole/s
  Demonstrated the effect of policy shocks in different periods with 3D visualizations.
 * MATLAB
 
-### NBA Team Member Selection [[**Code**]] (https://github.com/Jiun-Ting/NBA-Fantacy-Team-Member-Selection)
+### NBA Team Member Selection   [[**Code**]](https://github.com/Jiun-Ting/NBA-Fantacy-Team-Member-Selection)
  Optimized an NBA team formation with Julia based on the players’ scores on NBA Fantasy, player’s statistics, playoff experience, actual salary, and the constraints on budget and position requirements.
  Trained a supervised model (Linear Regression) with game history results to get the parameters of each features and then solved the integer optimization problem with the constraints.
 * Julia
