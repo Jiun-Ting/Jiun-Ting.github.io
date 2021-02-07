@@ -32,14 +32,13 @@ Considering the hierarchical structure of courses, users are able to put whole/s
 	Managed the buffer pool properly which ensures the pages pinned in the buffer pool if necessary.
 * C++
 
-### Monetary Policy Analysis  [[**Graphs*]](https://github.com/Jiun-Ting/Master_Thesis)
+### Monetary Policy Analysis  [[**Graphs**]](https://github.com/Jiun-Ting/Master_Thesis)
  Constructed a Time-Varying Parameter Vector Autoregressive model and simulated with MCMC/Gibbs sampling approach with MATLAB to capture the monetary effect under different interest rate environment.
  Demonstrated the effect of policy shocks in different periods with 3D visualizations.
 * MATLAB
 
-### NBA Team Member Selection   [[**Code**]](https://github.com/Jiun-Ting/NBA-Fantacy-Team-Member-Selection)
- Optimized an NBA team formation with Julia based on the players’ scores on NBA Fantasy, player’s statistics, playoff experience, actual salary, and the constraints on budget and position requirements.
- Trained a supervised model (Linear Regression) with game history results to get the parameters of each features and then solved the integer optimization problem with the constraints.
+### NBA Team Member Selection  [[**Code**]](https://github.com/Jiun-Ting/NBA-Fantacy-Team-Member-Selection)
+The project applied supervised learning and integer optimization with actual data to simulate an optimal NBA team.
 * Julia
 
 ### Bank Webpage  [[**link**]](https://jiun-ting.github.io/bank%20webpage/index.html) 
