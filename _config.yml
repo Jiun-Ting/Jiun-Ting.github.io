@@ -13,3 +13,6 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
+social-network-links:
+  email: "someone@example.com"
+  github: daattali
