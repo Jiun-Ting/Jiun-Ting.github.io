@@ -1,7 +1,7 @@
 # Projects
 
 
-### Course Enrollment System
+### Course Enrollment System [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/Course%20Enrollment)
 The system supports course searching, cart function, course rating and recommendation. User could search courses by single or multiple conditions and select them into cart.
 Considering the hierarchical structure of courses, users are able to put whole/sub-session of course to cart and drop whole/partial of them. Besides, the course that was taken could be rated, which enables the system to generate recommended list based on their preference.
 * React.js
@@ -19,21 +19,28 @@ Considering the hierarchical structure of courses, users are able to put whole/s
 	Tested each function extensively to ensure data to be successfully accessed and modified through RESTful API.
 * React Native, RESTful API
 
-
-### Evaluation of Big Data Systems  [[**Code**]]( https://github.com/Jiun-Ting/CS744-Big-Data-Systems)
+### Evaluation of Big Data Systems  [[**Code**]](https://github.com/Jiun-Ting/CS744-Big-Data-Systems)
 1. Distributed Data Parallel Training: Analyzed the performance of different gradient synchronization methods in PyTorch, which includes gather/scatter, all reduce, and the built-in module. 
 2.	Apache Spark Deployment and Testing: Deployed Hadoop and Spark on Cloudlab and conducted experiments to observe the result of RDD partitioning, RDD persistence and fault tolerance by implementing Pagerank.
 3.	Tuning Databases Towards Reduced Energy Consumption: Observed the relationship between performance and power consumption with different knobs setting in Cassandra and Postgres. Then applied clustering methods to classify our samplings and analyzed the features of each group.
 
 * Python, PyTorch, Spark, Postgres, Cassandra
 
-B+ Tree Index Manager   [[**Code**]](https://github.com/Jiun-Ting/B-TreeIndexManager)
+### B+ Tree Index Manager   [[**Code**]](https://github.com/Jiun-Ting/B-TreeIndexManager)
 	Constructed a B+ tree with C++ from scratch to manage the index of Badger DB. 
 	Implemented index insertion, range scan, next scan in an efficient and correct manner.
 	Managed the buffer pool properly which ensures the pages pinned in the buffer pool if necessary.
 * C++
 
+### Monetary Policy Analysis [Graphs]https://github.com/Jiun-Ting/Master_Thesis
+ Constructed a Time-Varying Parameter Vector Autoregressive model and simulated with MCMC/Gibbs sampling approach with MATLAB to capture the monetary effect under different interest rate environment.
+ Demonstrated the effect of policy shocks in different periods with 3D visualizations.
+* MATLAB
 
+### NBA Team Member Selection [[**Code**]] (https://github.com/Jiun-Ting/NBA-Fantacy-Team-Member-Selection)
+ Optimized an NBA team formation with Julia based on the players’ scores on NBA Fantasy, player’s statistics, playoff experience, actual salary, and the constraints on budget and position requirements.
+ Trained a supervised model (Linear Regression) with game history results to get the parameters of each features and then solved the integer optimization problem with the constraints.
+* Julia
 
 ### Bank Webpage  [[**link**]](https://jiun-ting.github.io/bank%20webpage/index.html) 
 Simple webpage layout design.
