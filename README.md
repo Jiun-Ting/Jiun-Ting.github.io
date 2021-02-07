@@ -1,8 +1,7 @@
 ## Projects
 
-### Bank Webpage (html, css, javascript, Bootstrap)
-![link](https://jiun-ting.github.io/bank%20webpage/index.html)
-(function of buttons are not implemented)
+### Bank Webpage ![link](https://jiun-ting.github.io/bank%20webpage/index.html)
+A simple webpage layout design using html, css, javascript, Bootstrap. Functions are not implemented.
 
 ### Course Enrollment (react)
 
