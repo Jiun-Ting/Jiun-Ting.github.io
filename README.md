@@ -24,8 +24,8 @@ The library creates mulit-threads to perform the map/reduce tasks with efficient
 In this project, I constructed a B+ tree to manage the index of Badger DB. The implemented functions includes index insertion, range scan, next scan. Meanwhile, the buffer pool is properly managed, which ensures the pages pinned in the buffer pool if necessary.
 * C++
 
-### Monetary Policy Analysis  [[**Abstract(En)**]](http://www.econ.sinica.edu.tw/english/webtools/thumbnail/pviewpdf/2013093010101596577/?fd=Periodicals_PdfE&MSID=2&Cat=2&Pname=enaep47-1-2-abs.pdf) [[**PDF**]](http://www.econ.sinica.edu.tw/english/webtools/thumbnail/pviewpdf/2013093010101596577/?fd=Periodicals_Pdf&MSID=2&Cat=3&Pname=aep47-1-2.pdf)[[**Graphs**]](https://github.com/Jiun-Ting/Master_Thesis)
-*Jiun-Ting Chen and Sheng-Kai Chang (2019) "Measuring the Effects of Monetary Policy: A Time-Varying Parameter Vector Autoregressive Approach," Academia Economic Papers, 47(1), 31-73.*
+### Monetary Policy Analysis  [[**Abstract(En)**]](http://www.econ.sinica.edu.tw/english/webtools/thumbnail/pviewpdf/2013093010101596577/?fd=Periodicals_PdfE&MSID=2&Cat=2&Pname=enaep47-1-2-abs.pdf) [[**PDF**]](http://www.econ.sinica.edu.tw/english/webtools/thumbnail/pviewpdf/2013093010101596577/?fd=Periodicals_Pdf&MSID=2&Cat=3&Pname=aep47-1-2.pdf)[[**Graphs**]](https://github.com/Jiun-Ting/Master_Thesis) 
+*Jiun-Ting Chen and Sheng-Kai Chang (2019) "Measuring the Effects of Monetary Policy: A Time-Varying Parameter Vector Autoregressive Approach," Academia Economic Papers, 47(1), 31-73.*<br />
 This paper constructed a Time-Varying Parameter Vector Autoregressive model and simulated with MCMC/Gibbs sampling approach with MATLAB to capture the monetary effect under different interest rate environment. The graphs demonstrated the effect of policy shocks in different periods with 3D visualizations.
 * MATLAB
 
