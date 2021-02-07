@@ -2,7 +2,7 @@
 
 
 ### Course Enrollment System [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/Course%20Enrollment)
-The system supports course searching, cart function, course rating and recommendation. User could search courses with single or multiple conditions. Considering the hierarchical structure of courses, users are able to put whole/sub-session of course to cart and drop whole/part of them. Besides, the rating function for the taken courses enables the system to generate recommended list based on their preference.
+The system supports searching, shopping cart, course rating and recommendation. User could search courses with single or multiple conditions. Considering the hierarchical structure of courses, users are able to put whole/sub-session of course to cart and drop whole/part of them. Besides, the rating function for the taken courses enables the system to generate recommended list based on their preference.
 * React.js
 
 ### Multi-threaded MapReduce Library [[**Code**]](https://github.com/Jiun-Ting/MapReduce)
