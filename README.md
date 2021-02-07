@@ -5,15 +5,13 @@
 The system supports searching, shopping cart, course rating and recommendation. User could search courses with single or multiple conditions. Considering the hierarchical structure of courses, users are able to put whole/sub-session of course to cart and drop whole/part of them. Besides, the rating function for the taken courses enables the system to generate recommended list based on their preference.
 * React.js
 
+### Fitness Tracker App   [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/FitnessTracker)
+This iOS App allowing users to set their daily calorie goals and to record their daily meal, exercises. In addition, all information is summarized for user to track their daily progress.
+* React Native, RESTful API
+
 ### Multi-threaded MapReduce Library [[**Code**]](https://github.com/Jiun-Ting/MapReduce)
 The library creates mulit-threads to perform the map/reduce tasks with efficient concurrency support by taking user-defined Map/Reduce function and the assigned number of thread for mappper and reducer.
 * C Language
-
-### Fitness Tracker App   [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/FitnessTracker)
-	Designed an iOS App with react native allowing users to set their calorie goals and to record their daily meal, exercises. In addition, all information is summarized for user to track their daily progress.
-	Constructed callback mechanisms and data structures properly to ensure records are efficiently synchronized.
-	Tested each function extensively to ensure data to be successfully accessed and modified through RESTful API.
-* React Native, RESTful API
 
 ### Evaluation of Big Data Systems  [[**Code**]](https://github.com/Jiun-Ting/CS744-Big-Data-Systems)
 1. Distributed Data Parallel Training: Analyzed the performance of different gradient synchronization methods in PyTorch, which includes gather/scatter, all reduce, and the built-in module. 
