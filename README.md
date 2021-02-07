@@ -32,7 +32,7 @@ Considering the hierarchical structure of courses, users are able to put whole/s
 	Managed the buffer pool properly which ensures the pages pinned in the buffer pool if necessary.
 * C++
 
-### Monetary Policy Analysis [Graphs]https://github.com/Jiun-Ting/Master_Thesis
+### Monetary Policy Analysis  [[**Graphs*]](https://github.com/Jiun-Ting/Master_Thesis)
  Constructed a Time-Varying Parameter Vector Autoregressive model and simulated with MCMC/Gibbs sampling approach with MATLAB to capture the monetary effect under different interest rate environment.
  Demonstrated the effect of policy shocks in different periods with 3D visualizations.
 * MATLAB
