@@ -25,8 +25,8 @@ In this project, I constructed a B+ tree to manage the index of Badger DB. The i
 * C++
 
 ### Monetary Policy Analysis  [[**Graphs**]](https://github.com/Jiun-Ting/Master_Thesis)
- Constructed a Time-Varying Parameter Vector Autoregressive model and simulated with MCMC/Gibbs sampling approach with MATLAB to capture the monetary effect under different interest rate environment.
- Demonstrated the effect of policy shocks in different periods with 3D visualizations.
+Jiun-Ting Chen and Sheng-Kai Chang (2019) "Measuring the Effects of Monetary Policy: A Time-Varying Parameter Vector Autoregressive Approach," Academia Economic Papers, 47(1), 31-73.
+This paper constructed a Time-Varying Parameter Vector Autoregressive model and simulated with MCMC/Gibbs sampling approach with MATLAB to capture the monetary effect under different interest rate environment. The graphs demonstrated the effect of policy shocks in different periods with 3D visualizations.
 * MATLAB
 
 ### NBA Team Member Selection  [[**Code**]](https://github.com/Jiun-Ting/NBA-Fantacy-Team-Member-Selection)
