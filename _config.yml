@@ -1,4 +1,15 @@
 title: Jiun-Ting Chen
 theme: jekyll-theme-architect
-description: I am Computer Science graduate student of UW-Madsion. 
-show_downloads: True
+
+# Your name to show in the footer
+author: Some Person
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
