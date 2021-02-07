@@ -1,4 +1,4 @@
-## User Interface Courseworks
+## Projects
 
 ### Bank Webpage (html, css, javascript, Bootstrap)
 https://jiun-ting.github.io/bank%20webpage/index.html (function of buttons are not implemented)
