@@ -2,7 +2,7 @@
 
 
 ### Course Enrollment System [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/Course%20Enrollment)
-The system supports searching, shopping cart, course rating and recommendation. User could search courses with single or multiple conditions. Considering the hierarchical structure of courses, they could be selected and drop either as a whole or by a sub-session. Besides, the rating function for the taken courses enables the system to generate recommended list based on their preference.
+The system supports searching, shopping cart, course rating and recommendation. User could search courses with single/multiple conditions. Considering the hierarchical structure of courses, they could be selected and dropped either as a whole or by sub-session. Besides, the rating function for the taken courses enables the system to generate recommended list based on their preference.
 * React.js
 
 ### Fitness Tracker App   [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/FitnessTracker)
