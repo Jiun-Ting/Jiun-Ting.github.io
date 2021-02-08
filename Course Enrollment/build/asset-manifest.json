@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Course%20Enrollment/static/css/main.e6d6dde8.chunk.css",
+    "main.js": "/Course%20Enrollment/static/js/main.e3aba65a.chunk.js",
+    "main.js.map": "/Course%20Enrollment/static/js/main.e3aba65a.chunk.js.map",
+    "runtime-main.js": "/Course%20Enrollment/static/js/runtime-main.dde0e14d.js",
+    "runtime-main.js.map": "/Course%20Enrollment/static/js/runtime-main.dde0e14d.js.map",
+    "static/js/2.94b3d934.chunk.js": "/Course%20Enrollment/static/js/2.94b3d934.chunk.js",
+    "static/js/2.94b3d934.chunk.js.map": "/Course%20Enrollment/static/js/2.94b3d934.chunk.js.map",
+    "index.html": "/Course%20Enrollment/index.html",
+    "precache-manifest.e25573ad5983c173caf08f8afc5136e4.js": "/Course%20Enrollment/precache-manifest.e25573ad5983c173caf08f8afc5136e4.js",
+    "service-worker.js": "/Course%20Enrollment/service-worker.js",
+    "static/css/main.e6d6dde8.chunk.css.map": "/Course%20Enrollment/static/css/main.e6d6dde8.chunk.css.map",
+    "static/js/2.94b3d934.chunk.js.LICENSE.txt": "/Course%20Enrollment/static/js/2.94b3d934.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dde0e14d.js",
+    "static/js/2.94b3d934.chunk.js",
+    "static/css/main.e6d6dde8.chunk.css",
+    "static/js/main.e3aba65a.chunk.js"
+  ]
+}
