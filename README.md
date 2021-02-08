@@ -6,7 +6,7 @@ The system supports searching, shopping cart, course rating and recommendation. 
 * React.js
 
 ### Fitness Tracker App   [[**Code**]](https://github.com/Jiun-Ting/Jiun-Ting.github.io/tree/main/FitnessTracker)
-This iOS App allowing users to set their daily calorie goals and to record their daily meal, exercises. In addition, all information is summarized for user to track their daily progress.
+This iOS App allowing users to set their daily calorie goals and to record their daily meal, exercises. In addition, all updated information is synchronized in all tabs and  immediately summarized for user accurately tracking their daily progress.
 * React Native, RESTful API
 
 ### Multi-threaded MapReduce Library [[**Code**]](https://github.com/Jiun-Ting/MapReduce)
