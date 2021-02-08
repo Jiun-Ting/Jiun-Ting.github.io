@@ -10,7 +10,7 @@ This iOS App allowing users to set their daily calorie goals and to record their
 * React Native, RESTful API
 
 ### Multi-threaded MapReduce Library [[**Code**]](https://github.com/Jiun-Ting/MapReduce)
-The library creates mulit-threads to perform the map/reduce tasks with efficient concurrency support by taking user-defined Map/Reduce function and the assigned number of thread for mappper and reducer.
+The library creates mulit-threads to perform the map/reduce tasks with efficient concurrency support by taking user-defined Map/Reduce function and the assigned number of threads for mappper and reducer.
 * C Language
 
 ### Evaluation of Big Data Systems  [[**Code**]](https://github.com/Jiun-Ting/CS744-Big-Data-Systems)
